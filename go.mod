@@ -45,9 +45,9 @@ require (
 	golang.org/x/tools v0.0.0-20200716134326-a8f9df4c9543 // indirect
 	google.golang.org/grpc v1.30.0
 	google.golang.org/grpc/examples v0.0.0-20200707005602-4258d12073b4 // indirect
-	k8s.io/api v0.19.0-alpha.3
+	k8s.io/api v0.20.0-alpha.1
 	k8s.io/apiextensions-apiserver v0.19.0-alpha.3
-	k8s.io/apimachinery v0.19.0-beta.2
+	k8s.io/apimachinery v0.20.0-alpha.1
 	k8s.io/client-go v0.19.0-alpha.3
 	k8s.io/klog v1.0.0
 	k8s.io/metrics v0.19.0-alpha.3
